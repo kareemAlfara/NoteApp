@@ -4,7 +4,7 @@ import 'package:hive_flutter/adapters.dart';
 import 'package:note_app/presentation/screens/NoteApp.dart';
 import 'package:note_app/presentation/screens/SimpleBlocObservier.dart';
 import 'package:note_app/services/components.dart';
-import 'package:note_app/domain/entites/models/noteModel.dart';
+import 'package:note_app/data/models/noteModel.dart';
 import 'package:note_app/presentation/noteapp_cubit/noteapp_cubit.dart';
 
 void main() async {

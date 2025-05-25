@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:note_app/services/components.dart';
 import 'package:note_app/domain/usecases/editing.dart';
-import 'package:note_app/domain/entites/models/noteModel.dart';
+import 'package:note_app/data/models/noteModel.dart';
 import 'package:note_app/presentation/noteapp_cubit/noteapp_cubit.dart';
 
 class NoteBody extends StatelessWidget {

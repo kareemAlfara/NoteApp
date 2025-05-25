@@ -4,7 +4,7 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'package:meta/meta.dart';
 import 'package:note_app/services/components.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:note_app/domain/entites/models/noteModel.dart';
+import 'package:note_app/data/models/noteModel.dart';
 
 part 'addnoteapp_state.dart';
 

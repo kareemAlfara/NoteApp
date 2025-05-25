@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hive/hive.dart';
 import 'package:meta/meta.dart';
 import 'package:note_app/services/components.dart';
-import 'package:note_app/domain/entites/models/noteModel.dart';
+import 'package:note_app/data/models/noteModel.dart';
 
 part 'noteapp_state.dart';
 

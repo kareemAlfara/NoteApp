@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:note_app/services/components.dart';
 import 'package:note_app/presentation/addnotecubit/addnoteapp_cubit.dart';
-import 'package:note_app/domain/entites/models/noteModel.dart';
+import 'package:note_app/data/models/noteModel.dart';
 import 'package:intl/intl.dart' as intl;
 import 'package:note_app/services/constant.dart';
 
