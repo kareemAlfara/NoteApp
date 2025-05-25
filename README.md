@@ -19,6 +19,7 @@ A beautiful, simple, and powerful **note app** built using **Flutter**. This app
 | ![Home](assets/screenshots/Homenoteapp.png) | ![Create](assets/screenshots/addNote.png) |
 ![editing](assets/screenshots/editNote.png)
 
+
 ---
 ## 📂 Folder Structure
 
